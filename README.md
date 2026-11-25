@@ -171,10 +171,3 @@ requirements.txt   # dependências
 
 ---
 
-## ⚠️ Aviso
-
-Grave reuniões apenas com o conhecimento e o consentimento dos participantes e respeite as leis e políticas da sua empresa sobre gravação.
-
----
-
-Feito por **Victor Morais**.
